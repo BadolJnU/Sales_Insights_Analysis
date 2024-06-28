@@ -12,7 +12,7 @@ Key Features:
 5. A bar chart show the top 5 customers for the company.
 6. A chart show the top 5 selling product.
 
-![Capture](Capture.png)
+![Capture](Capture.PNG)
 
 Get Started:
 
